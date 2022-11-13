@@ -1,0 +1,4 @@
+buildcmd = "go build -o tmp/tmp_bin.exe"
+excludedir = [".git", "tmp", "docs", "vendor"]
+projectdir = "C:\\Users\\Moshkof\\go\\src\\first-security\\front-end"
+runcmd = "tmp/tmp_bin.exe"
